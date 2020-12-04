@@ -1,4 +1,4 @@
-# Digispark
+# Digispark keyboard
 This repository have some examples of what you can do whit the Digispark 
 
 # Attenction
