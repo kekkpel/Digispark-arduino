@@ -1,4 +1,4 @@
-# Digispark-bad-usb
+# Digispark
 This repository have some examples of what you can do whit the Digispark 
 
 # Attenction
