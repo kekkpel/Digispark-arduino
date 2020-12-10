@@ -3,7 +3,7 @@ This repository have some examples of what you can do whit the Digispark
 
 # Attenction
 First you need to have installed all the requirements to work whit the digispark.
-These project that I made use the italian keyboard on window os
+These project that I made use the american keyboard on the window os
 
 # Projects
 ## Rickroll.ino
